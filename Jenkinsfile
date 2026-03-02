@@ -4,4 +4,4 @@ springBootPipeline(
     dockerUser: 'junaiduthman'
     )
 
-//test if the jenkins pipeline will trigger
+//test merge
