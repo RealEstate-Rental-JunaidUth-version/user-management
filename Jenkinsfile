@@ -1,6 +1,6 @@
 @Library('my-shared-library') _
 springBootPipeline(
-    appName: 'config-service', 
+    appName: 'user-management-service', 
     dockerUser: 'junaiduthman'
     )
 
