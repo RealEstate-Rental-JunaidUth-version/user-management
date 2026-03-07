@@ -2,6 +2,4 @@
 springBootPipeline(
     appName: 'user-management-service', 
     dockerUser: 'junaiduthman'
-    )
-
-//test merge
+)
